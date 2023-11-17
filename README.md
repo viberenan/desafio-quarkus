@@ -38,7 +38,8 @@ docker run -p 8080:8080 viberenan/desafio-quarkus:latest
 ## LINKS
 
 ### Metrics:
-http://localhost:8080/q/metrics/application
+`http://localhost:8080/q/metrics/application`
 
-
+### Swagger:
+`http://localhost:8080/q/swagger-ui/#/`
 
